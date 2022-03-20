@@ -3,9 +3,12 @@
       {
         "dataType": "story",
         "mediaType": "image",
-        "media": "https://talksport.com/wp-content/uploads/sites/5/2019/11/NINTCHDBPICT000537053493-e1572968665876.jpg?strip=all&w=960&quality=100",
+        "media": "http://smaczniemi.com/wp-content/uploads/2013/09/DSCF6453.jpg",
         "duration": "5.0",
         "caption": "What do you think about this guy? He doing music, boxing, youtube. Like tf, how?",
+        "font-size": "",
+        "x": "",
+        "y": "",
         "when": "14 hours ago",
         "color": ""
       },
@@ -15,6 +18,9 @@
         "media": "",
         "duration": "4.0",
         "caption": "Did you know the Earth was flat until God provided an update?",
+        "font-size": "",
+        "x": "",
+        "y": "",
         "when": "3 hours ago",
         "color": "#303f9f"
       },
@@ -24,6 +30,9 @@
         "media": "https://raw.githubusercontent.com/blackmann/storyexample/master/assets/small.mp4",
         "duration": "4.0",
         "caption": "robo robo. robo me.",
+        "font-size": "",
+        "x": "",
+        "y": "",
         "when": "2 hours ago",
         "color": ""
       },
@@ -33,6 +42,9 @@
         "media": "https://media.giphy.com/media/XcA8krYsrEAYXKf4UQ/giphy.gif",
         "duration": "5.0",
         "caption": "Paaawwww 🐧",
+        "font-size": "",
+        "x": "",
+        "y": "",
         "when": "1 hours ago",
         "color": ""
       },
@@ -42,6 +54,9 @@
         "media": "https://s2.r29static.com/bin/entry/803/430x516,85/1652202/image.webp",
         "duration": "5.0",
         "caption": "Plata o plomo? Si or no",
+        "font-size": "",
+        "x": "",
+        "y": "",
         "when": "40 minutes ago",
         "color": ""
       },
@@ -51,6 +66,9 @@
         "media": "https://i2.wp.com/metro.co.uk/wp-content/uploads/2019/10/PRI_908365231.jpg?quality=90&strip=all&zoom=1&resize=644%2C360&ssl=1",
         "duration": "5.0",
         "caption": "Aww geez Rick. aww naaawwww",
+        "font-size": "",
+        "x": "",
+        "y": "",
         "when": "10 minutes ago",
         "color": ""
       },
@@ -60,6 +78,9 @@
         "media": "",
         "duration": "4.0",
         "caption": "Jesse pink man is totally underrated. This guy!! 😁😁😂😂",
+        "font-size": "",
+        "x": "",
+        "y": "",
         "when": "7 minutes ago",
         "color": "#d32f2f"
       },
@@ -69,6 +90,9 @@
         "media": "https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif",
         "duration": "5.0",
         "caption": "I'm so happy. Today turned out to be the best. Woohhh!!🤣🤣",
+        "font-size": "",
+        "x": "",
+        "y": "",
         "when": "6 minutes ago",
         "color": ""
       },
@@ -78,6 +102,9 @@
         "media": "",
         "duration": "4.0",
         "caption": "I hope you enjoyed the stories. Now go ahead and add stories to your app with the story_view library.",
+        "font-size": "",
+        "x": "",
+        "y": "",
         "when": "just now",
         "color": "#ff8f00"
       }
